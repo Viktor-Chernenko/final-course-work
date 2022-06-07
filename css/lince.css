@@ -1,0 +1,108 @@
+.parkskazka-modal-subscribers .rm_form_container {
+    margin: auto;
+}
+.parkskazka-modal-subscribers input {
+    margin: auto;
+    text-align: center;
+}
+
+.parkskazka-modal-subscribers .rm_form_field.rm_button {
+    width: 100%;
+    background: #fff142;
+    margin-top: 0px;
+}
+.parkskazka-modal-subscribers .rm_form_field.rm_button:hover {
+    width: 100%;
+    background: #fff142;
+    background-color: #fff142;
+    border-radius: 0;
+    margin-top: 0px;
+}
+
+.parkskazka-modal-subscribers input[type="date"],
+.parkskazka-modal-subscribers input[type="email"],
+.parkskazka-modal-subscribers input[type="text"] {
+    margin-bottom: 10px;
+}
+.rm-form-style0 textarea, .rm-form-style0 textarea:active,
+.rm-form-style0 textarea:focus, .rm-form-style0 textarea:hover,
+.rm-form-style0 input[type=email]:hover, .rm-form-style0 input[type=email]:active,
+.rm-form-style0 input[type=email]:focus, .rm-form-style0 input[type=email],
+.rm-form-style0 input[type=text]:hover, .rm-form-style0 input[type=text]:active,
+.rm-form-style0 input[type=text]:focus, .rm-form-style0 input[type=text] {
+    padding: .625em;
+}
+
+.parkskazka-modal-subscribers .es_form_container {
+    text-align: center;
+}
+
+.boxModal-default {
+    border-style: dotted;
+    border-width: 2px;
+    border-color: #fff142;
+    box-shadow: none;
+}
+
+
+
+.boxModal-default .parkskazka-modal-subscribers .boxModal_close,
+.pum-content + .pum-close {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+
+
+.boxModal-default .parkskazka-modal-subscribers .boxModal_close::before,
+.pum-theme-4697 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close::before,
+.boxModal-default .parkskazka-modal-subscribers  .boxModal_close::after,
+.pum-theme-4697 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close::after {
+    content: '';
+    position: absolute;
+    width: 31px;
+    height: 1px;
+    background: #000000;
+    top: 15px;
+    left: 0px;
+    z-index: 999;
+}
+.boxModal-default .boxModal_close::before,
+.pum-theme-4697 .pum-content + .pum-close::before {
+    transform: rotate(-45deg);
+}
+.boxModal-default .boxModal_close::after,
+.pum-theme-4697 .pum-content + .pum-close::after {
+    transform: rotate(45deg);
+}
+
+.politice_conf_div .col:nth-child(2) {
+    padding-left: 5px;
+}
+.politice_conf_div label {
+    font-weight: 300 !important;
+}
+.politice_conf_div {
+    display: table;
+    font-size: 13px;
+}
+.politice_conf_div .col {
+    display: table-cell;
+    vertical-align: top;
+}
+.politice_conf_div a {
+    color: #fff142;
+}
+
+.top-header .su-button:nth-child(4) {
+    /* display: none !important; */
+}
+
+.boxModal-default {
+    width: 600px;
+}
+
+.parkskazka-modal-subscribers .image img {
+    margin: auto;
+    display: block;
+}
